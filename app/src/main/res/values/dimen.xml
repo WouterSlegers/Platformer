@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="keypad_size">60dp</dimen>
+    <dimen name="heigth_button_box">120dp</dimen>
+</resources>

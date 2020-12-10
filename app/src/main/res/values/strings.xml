@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Platformer</string>
+    <string name="health">Health: </string>
+    <string name="gameOver">You died! Try again?</string>
+    <string name="score">"Score: "</string>
+    <string name="instructions1">Hi! Welcome to the game! The goal is to collect all coins in this level.</string>
+    <string name="instructions2">However, you have to stand on activation blocks before you can pick up coins!</string>
+    <string name="instructions3">Make sure not to push the coins around and destroy them before being able to</string>
+    <string name="instructions4">pick them up! Use the bottom left and right of the screen to move left and right.</string>
+    <string name="instructions5">Use the top of the screen with your other thumb to jump.</string>
+</resources>

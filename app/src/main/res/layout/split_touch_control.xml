@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/splitTouchControl">
+
+    <LinearLayout
+        android:id="@+id/button_box"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/heigth_button_box"
+        android:layout_alignParentBottom="true"
+        android:weightSum="2"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/screen_left"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:alpha="0" />
+
+        <Button
+            android:id="@+id/screen_right"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:alpha="0" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/screen_top"
+        android:layout_height="0dp"
+        android:layout_width="fill_parent"
+        android:layout_above="@+id/button_box"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="0dp"
+        android:alpha="0" />
+
+</RelativeLayout>

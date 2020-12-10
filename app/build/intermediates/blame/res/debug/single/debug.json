@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_tile_top.png.flat",
+        "source": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\src\\main\\res\\drawable-nodpi\\tile_top.png"
+    },
+    {
+        "merged": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_tile_topleft.png.flat",
+        "source": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\src\\main\\res\\drawable-nodpi\\tile_topleft.png"
+    },
+    {
+        "merged": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_player_front1.png.flat",
+        "source": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\src\\main\\res\\drawable-nodpi\\player_front1.png"
+    },
+    {
+        "merged": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_tile_top_left.png.flat",
+        "source": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\src\\main\\res\\drawable-nodpi\\tile_top_left.png"
+    },
+    {
+        "merged": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_exclamation_block.png.flat",
+        "source": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\src\\main\\res\\drawable-nodpi\\exclamation_block.png"
+    },
+    {
+        "merged": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_spears_up.png.flat",
+        "source": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\src\\main\\res\\drawable-nodpi\\spears_up.png"
+    },
+    {
+        "merged": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_wave_tile_square.png.flat",
+        "source": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\src\\main\\res\\drawable-nodpi\\wave_tile_square.png"
+    },
+    {
+        "merged": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_spears_down.png.flat",
+        "source": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\src\\main\\res\\drawable-nodpi\\spears_down.png"
+    },
+    {
+        "merged": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_tile_square.png.flat",
+        "source": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\src\\main\\res\\drawable-nodpi\\tile_square.png"
+    },
+    {
+        "merged": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\build\\intermediates\\res\\merged\\debug\\layout_touch_control.xml.flat",
+        "source": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\src\\main\\res\\layout\\touch_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_tile_top_round.png.flat",
+        "source": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\src\\main\\res\\drawable-nodpi\\tile_top_round.png"
+    },
+    {
+        "merged": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_nullsprite.png.flat",
+        "source": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\src\\main\\res\\drawable-nodpi\\nullsprite.png"
+    },
+    {
+        "merged": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_sword1.png.flat",
+        "source": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\src\\main\\res\\drawable-nodpi\\sword1.png"
+    },
+    {
+        "merged": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_sword2_vert.png.flat",
+        "source": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\src\\main\\res\\drawable-nodpi\\sword2_vert.png"
+    },
+    {
+        "merged": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\build\\intermediates\\res\\merged\\debug\\layout_split_touch_control.xml.flat",
+        "source": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\src\\main\\res\\layout\\split_touch_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_tile_topright.png.flat",
+        "source": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\src\\main\\res\\drawable-nodpi\\tile_topright.png"
+    },
+    {
+        "merged": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_tile_top_right.png.flat",
+        "source": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\src\\main\\res\\drawable-nodpi\\tile_top_right.png"
+    },
+    {
+        "merged": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_coin.png.flat",
+        "source": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\src\\main\\res\\drawable-nodpi\\coin.png"
+    },
+    {
+        "merged": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_player_left1.png.flat",
+        "source": "C:\\Users\\weeti\\Downloads\\Platformer\\Platformer\\app\\src\\main\\res\\drawable-nodpi\\player_left1.png"
+    }
+]
