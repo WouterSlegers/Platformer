@@ -4,4 +4,5 @@ also the background music could use improvement!
 
 
 This app was made for the Game Development for Android course at Uppsala University.
-The source code can be found under app\src\main\java\com\wjslegers\asteroidsgl
+The source code can be found under app\src\main\java\com\wjslegers\platformer
+
